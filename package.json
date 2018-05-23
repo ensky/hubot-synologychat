@@ -1,0 +1,33 @@
+{
+  "name": "hubot-synologychat",
+  "version": "1.0.0",
+  "description": "Hubot Synology Chat Adapter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ensky/hubot-synologychat.git"
+  },
+  "keywords": [
+    "hubot",
+    "synology",
+    "chat",
+    "synologychat",
+    "chat"
+  ],
+  "author": "enskylin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ensky/hubot-synologychat/issues"
+  },
+  "homepage": "https://github.com/ensky/hubot-synologychat#readme",
+  "peerDependencies": {
+    "hubot": "^2.19.0"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "synology-chat-bot": "^0.1.0"
+  }
+}
